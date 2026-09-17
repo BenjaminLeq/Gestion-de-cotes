@@ -45,20 +45,6 @@ La cote est positionnée en haut à droite de chaque page. Sa lettre principale,
 - une imprimante ou un copieur installé dans Windows ;
 - aucun droit administrateur requis pour utiliser l’application.
 
-## Compilation
-
-1. Installez [AutoIt](https://www.autoitscript.com/site/autoit/).
-2. Placez les fichiers suivants dans le même dossier :
-   - `GestionDeCotes.au3`
-   - `icone.ico`
-   - `aide.ico`
-   - `imprimer.ico`
-   - `parametres.ico`
-3. Ouvrez le fichier `.au3` avec **Compile Script to .exe (x64)**.
-4. Choisissez `icone.ico` comme icône de l’exécutable, puis lancez la compilation.
-
-Les icônes de l’interface sont intégrées dans l’exécutable pendant la compilation. Elles n’ont donc pas besoin d’être distribuées avec le fichier `.exe`.
-
 ## Version
 
 **Version 1.1**
