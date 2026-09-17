@@ -4,6 +4,12 @@
 
 La cote est positionnée en haut à droite de chaque page. Sa lettre principale, sa sous-cote et sa mise en forme peuvent être personnalisées avant l’impression.
 
+<p align="center">
+  <img alt="1" src="https://github.com/user-attachments/assets/b187c6a3-f25e-4065-b4a6-291573e9637f" width="32%">
+  <img alt="2" src="https://github.com/user-attachments/assets/f439c0c5-fa0a-424b-9608-89c96df2cc70"  width="32%">
+  <img alt="3" src="https://github.com/user-attachments/assets/c019673e-ec76-4cd2-abd0-50d2952d8067" width="32%">
+</p>
+
 ## Fonctionnalités
 
 - sélection de l’imprimante ou du copieur parmi les périphériques installés ;
